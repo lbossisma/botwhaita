@@ -3,7 +3,6 @@ import fetch from 'node-fetch'
 let handler = async (m, { conn, command, text, usedPrefix }) => {
 try {
 const buttons = [
-{ buttonId: `${usedPrefix}installa`, buttonText: { displayText: '𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐑𝐄 𝐈𝐋 𝐁𝐎𝐓' }, type: 1 },
 { buttonId: `${usedPrefix}menuloghi`, buttonText: { displayText: '𝐌ΞИ𝐔 𝐋𝐎𝐆𝐇𝐈 🎨' }, type: 1 }, ]    
 let texto1 = `┌──⭓ ✧𝐁Ꮻ𝐓 ✧
 │⭔ ${usedPrefix}kick / addio / ban @
