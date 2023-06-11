@@ -2,8 +2,6 @@ import { youtubeSearch } from '@bochilteam/scraper'
 import fetch from 'node-fetch'
 let handler = async (m, { conn, command, text, usedPrefix }) => {
 try {
-const buttons = [
-{ buttonId: `${usedPrefix}menuloghi`, buttonText: { displayText: '𝐌ΞИ𝐔 𝐋𝐎𝐆𝐇𝐈 🎨' }, type: 1 }, ]    
 let texto1 = `┌──⭓ ✧𝐁Ꮻ𝐓 ✧
 │⭔ ${usedPrefix}kick / addio / ban @
 │⭔ ${usedPrefix}warn @
