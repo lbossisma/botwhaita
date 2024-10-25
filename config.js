@@ -11,9 +11,9 @@ global.owner = [
   ['+34 682 62 21 95', 'nobody|'],
   
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['34 682 62 21 95'] 
+global.prems = ['34 682 62 21 95'] 
+global.reportes_solicitudes = ['34 682 62 21 95']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★ცơɬῳɧąıɬą★'
